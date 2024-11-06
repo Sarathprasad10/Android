@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calculator_background">#2C2C2C</color>
+    <color name="button_number">#CCC2B5</color> <!-- Green shade for numbers -->
+    <color name="button_operator">#FF9800</color> <!-- Orange shade for operators -->
+    <color name="button_equals">#494A50</color> <!-- Blue shade for equals -->
+    <color name="text_color">#FFFFFF</color> <!-- White text color -->
+    <color name="button_background_light">#494A50</color> <!-- Light gray for button background -->
+</resources>

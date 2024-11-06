@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Question 1</string>
+    <string name="youremail_example_com">youremail@example.com</string>
+    <string name="your_name">Your Name</string>
+</resources>

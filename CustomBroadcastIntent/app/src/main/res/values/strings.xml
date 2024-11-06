@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomBroadcastIntent</string>
+    <string name="custom_broadcast_intent">Custom Broadcast Intent</string>
+    <string name="send_broadcast">send Broadcast</string>
+    <string name="sarath_prasad_t_s">Sarath Prasad T S</string>
+</resources>

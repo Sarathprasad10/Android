@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mediaplayer</string>
+    <string name="play_media">Play Media</string>
+    <string name="start">start</string>
+    <string name="resume">resume</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="sarath_prasad_t_s">Sarath Prasad T S</string>
+</resources>

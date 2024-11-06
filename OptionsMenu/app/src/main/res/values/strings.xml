@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OptionsMenu</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="groupc">groupC</string>
+    <string name="groupd">groupD</string>
+    <string name="sub_menu">sub menu</string>
+    <string name="sub_menu_item_1">sub menu item 1</string>
+    <string name="sub_menu_item_2">sub menu item 2</string>
+    <string name="group_item1">group item1</string>
+    <string name="group_item_2">group item 2</string>
+</resources>

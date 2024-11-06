@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DisplayInfoApp</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email_example_com">your.email@example.com</string>
+</resources>
