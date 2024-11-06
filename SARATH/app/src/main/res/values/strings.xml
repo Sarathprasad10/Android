@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SARATH</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="hello">Hello</string>
+    <string name="Login">login</string>
+    <string name="Uname">Name</string>
+    <string name="todo">TODO</string>
+    <string name="Passwod">passwod</string>
+    <string name="user">TODO</string>
+    <string name="Incognito">incognito</string>
+    <string name="Name">Name</string>
+    <string name="Todo">TODO</string>
+    <string name="tdo">TODO</string>
+    <string name="button">Button</string>
+    <string name="LOGIN">Login</string>
+</resources>
